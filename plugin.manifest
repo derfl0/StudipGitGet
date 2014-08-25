@@ -1,0 +1,5 @@
+pluginname=GitGet
+pluginclassname=GitgetPlugin
+origin=intelec
+version=0.1a
+studipMinVersion=2.4
